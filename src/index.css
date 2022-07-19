@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Roobert';
+  src: url('../public/fonts/Roobert-Regular.woff');
+}
+
+@font-face {
+  font-family: 'Roobert-Light';
+  src: url('../public/fonts/Roobert-Light.woff');
+}
+
+@font-face {
+  font-family: 'Roobert-SemiBold';
+  src: url('../public/fonts/Roobert-SemiBold.woff');
+}
+
+body {
+  margin: 0;
+  font-family: 'Roobert', sans-serif;
+}
+
+h1 {
+  font-size: 48px;
+}
+
+h2 {
+  font-size: 32px;
+}
